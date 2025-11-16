@@ -1,0 +1,61 @@
+{
+  "updateNotice": "删除了某个物体",
+  "downLoadURL": "http://10.23.129.80//HotAssets/UIWindow/2/Android",
+  "hotAssetsPatchList": [
+    {
+      "patchVersion": 2,
+      "hotAssetsList": [
+        {
+          "abName": "uiwindowbundleconfig.unity",
+          "md5": "24AF74B86098DB4E7DDDA3C2124CB7E9",
+          "size": 2.95117188
+        },
+        {
+          "abName": "uiwindow_barrierinfowindow.unity",
+          "md5": "18FED5870DB4D7FF9C022F4447652FBD",
+          "size": 22.4082031
+        },
+        {
+          "abName": "uiwindow_battleworldwindow.unity",
+          "md5": "4C24FD6B88675A185C126C7187786EA8",
+          "size": 2290.829
+        },
+        {
+          "abName": "uiwindow_cutscenewindow.unity",
+          "md5": "29045859E25A87C2156188E57279ECFA",
+          "size": 2752.55957
+        },
+        {
+          "abName": "uiwindow_darkmaskwindow.unity",
+          "md5": "6C0F2134BB7A500181A7420D971BE293",
+          "size": 5.06152344
+        },
+        {
+          "abName": "uiwindow_hallwindow.unity",
+          "md5": "7C189B7AFE2347D1FC4F184F0F623991",
+          "size": 1190.01172
+        },
+        {
+          "abName": "uiwindow_roledemowindow.unity",
+          "md5": "3163DB9B9654871CCF977AA139708FA9",
+          "size": 74.66699
+        },
+        {
+          "abName": "uiwindow_selectcharacterwindow.unity",
+          "md5": "D81B903161FA79C04204326538D911A7",
+          "size": 340.536133
+        },
+        {
+          "abName": "uiwindow_selectwindow.unity",
+          "md5": "C5CE985C6580C43B014DA559FDDD27CF",
+          "size": 125.011719
+        },
+        {
+          "abName": "uiwindow_startwindow.unity",
+          "md5": "C5373CDD6694CE9436C31A097F7CB86D",
+          "size": 1123.9541
+        }
+      ]
+    }
+  ]
+}

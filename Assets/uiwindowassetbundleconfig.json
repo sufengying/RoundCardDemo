@@ -1,0 +1,305 @@
+{
+  "bundleInfoList": [
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Grunge/Brush Impact 4.png",
+      "crc": 201996150,
+      "bundleName": "uiwindow_barrierinfowindow.unity",
+      "assetName": "Brush Impact 4.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Grunge/Brush Radial.png",
+      "crc": 620022184,
+      "bundleName": "uiwindow_barrierinfowindow.unity",
+      "assetName": "Brush Radial.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/BarrierInfoWindow.prefab",
+      "crc": 2009473660,
+      "bundleName": "uiwindow_barrierinfowindow.unity",
+      "assetName": "BarrierInfoWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_barrierinfowindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Asset/Window/BattleWorldWindow.prefab",
+      "crc": 2174311085,
+      "bundleName": "uiwindow_battleworldwindow.unity",
+      "assetName": "BattleWorldWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_battleworldwindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Resources/Text/UI/BattleWorld/金箔金边中国风国风古典中式花纹-png_爱给网_aigei_com.png",
+      "crc": 2029502399,
+      "bundleName": "uiwindow_battleworldwindow.unity",
+      "assetName": "金箔金边中国风国风古典中式花纹-png_爱给网_aigei_com.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/RoleList/bg.jpg",
+      "crc": 3579848775,
+      "bundleName": "uiwindow_battleworldwindow.unity",
+      "assetName": "bg.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/RoleList/close.png",
+      "crc": 613055804,
+      "bundleName": "uiwindow_battleworldwindow.unity",
+      "assetName": "close.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Shadows/Gradient H.png",
+      "crc": 3604458873,
+      "bundleName": "uiwindow_cutscenewindow.unity",
+      "assetName": "Gradient H.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/CutSceneWindow.prefab",
+      "crc": 1827590073,
+      "bundleName": "uiwindow_cutscenewindow.unity",
+      "assetName": "CutSceneWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_cutscenewindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Script/Icon/Brightness.png",
+      "crc": 2340074944,
+      "bundleName": "uiwindow_cutscenewindow.unity",
+      "assetName": "Brightness.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/Task/SliderBackgound.png",
+      "crc": 2041237384,
+      "bundleName": "uiwindow_cutscenewindow.unity",
+      "assetName": "SliderBackgound.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/ThirdLibrary/SuperScrollView/Demo/Texture/background/background3.png",
+      "crc": 3740842173,
+      "bundleName": "uiwindow_cutscenewindow.unity",
+      "assetName": "background3.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/DarkMaskWindow.prefab",
+      "crc": 2584442498,
+      "bundleName": "uiwindow_darkmaskwindow.unity",
+      "assetName": "DarkMaskWindow.prefab",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/HallWindow.prefab",
+      "crc": 1678201561,
+      "bundleName": "uiwindow_hallwindow.unity",
+      "assetName": "HallWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_hallwindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Resources/Text/Picture/1743417098280.jpg",
+      "crc": 2041880043,
+      "bundleName": "uiwindow_hallwindow.unity",
+      "assetName": "1743417098280.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/Hall/main.png",
+      "crc": 442572863,
+      "bundleName": "uiwindow_hallwindow.unity",
+      "assetName": "main.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/Hall/shadow.png",
+      "crc": 482941778,
+      "bundleName": "uiwindow_hallwindow.unity",
+      "assetName": "shadow.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/Hall/xingli.png",
+      "crc": 1121888154,
+      "bundleName": "uiwindow_hallwindow.unity",
+      "assetName": "xingli.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Borders/Basic/Basic Filled 10px.png",
+      "crc": 491314195,
+      "bundleName": "uiwindow_roledemowindow.unity",
+      "assetName": "Basic Filled 10px.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/RoleDemoWindow.prefab",
+      "crc": 2768426401,
+      "bundleName": "uiwindow_roledemowindow.unity",
+      "assetName": "RoleDemoWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_battleworldwindow.unity",
+        "uiwindow_roledemowindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Resources/prefabs/Icon/RoleImage/3.png",
+      "crc": 1707876135,
+      "bundleName": "uiwindow_roledemowindow.unity",
+      "assetName": "3.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Grunge/Border Wide 3.png",
+      "crc": 1751555751,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Border Wide 3.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Grunge/Brush Tall 4.png",
+      "crc": 1683017790,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Brush Tall 4.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/SelectCharacterWindow.prefab",
+      "crc": 4080746018,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "SelectCharacterWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_selectcharacterwindow.unity",
+        "uiwindow_battleworldwindow.unity",
+        "uiwindow_roledemowindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Hovl Studio/Wizard spells pack/Demo scene/Demo scene files/Aim4.png",
+      "crc": 2244709342,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Aim4.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Resources/prefabs/Icon/RoleImage/AddGlow.png",
+      "crc": 2407271797,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "AddGlow.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Cut/Cut Frame Corner Glow.png",
+      "crc": 2448816340,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Cut Frame Corner Glow.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Cut/Cut Frame Filled Glow Big.png",
+      "crc": 2851271555,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Cut Frame Filled Glow Big.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Cut/Cut Frame Glow - 5px.png",
+      "crc": 141887580,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Cut Frame Glow - 5px.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Icon/Armor Glow.png",
+      "crc": 2748912628,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Armor Glow.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Icon/Cancel.png",
+      "crc": 2010944179,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Cancel.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Icon/Star Filled.png",
+      "crc": 2424912197,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Star Filled.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Script/Icon/Star.png",
+      "crc": 3003585380,
+      "bundleName": "uiwindow_selectcharacterwindow.unity",
+      "assetName": "Star.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Dark UI/Textures/Filters/Mountain Rock.png",
+      "crc": 146019918,
+      "bundleName": "uiwindow_selectwindow.unity",
+      "assetName": "Mountain Rock.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/SelectWindow.prefab",
+      "crc": 3388248290,
+      "bundleName": "uiwindow_selectwindow.unity",
+      "assetName": "SelectWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_selectwindow.unity",
+        "uiwindow_battleworldwindow.unity",
+        "uiwindow_selectcharacterwindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Hovl Studio/Wizard spells pack/Icons/UIeffectAnim/UIeffect14.png",
+      "crc": 2522978769,
+      "bundleName": "uiwindow_selectwindow.unity",
+      "assetName": "UIeffect14.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/Asset/Window/StartWindow.prefab",
+      "crc": 2970382592,
+      "bundleName": "uiwindow_startwindow.unity",
+      "assetName": "StartWindow.prefab",
+      "bundleDependce": [
+        "uiwindow_startwindow.unity"
+      ]
+    },
+    {
+      "path": "Assets/Resources/Text/Picture/1743417098295.jpg",
+      "crc": 2047394110,
+      "bundleName": "uiwindow_startwindow.unity",
+      "assetName": "1743417098295.jpg",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/Start/EnterGame.png",
+      "crc": 520495218,
+      "bundleName": "uiwindow_startwindow.unity",
+      "assetName": "EnterGame.png",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/ZMPackages/ZMUI/Example/Textures/Start/Setting.png",
+      "crc": 882698245,
+      "bundleName": "uiwindow_startwindow.unity",
+      "assetName": "Setting.png",
+      "bundleDependce": []
+    }
+  ]
+}

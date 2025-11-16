@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5163485705629338694
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4077917247961865342}
+  - component: {fileID: 1769758926878009141}
+  - component: {fileID: 851378674170011148}
+  m_Layer: 0
+  m_Name: 1010
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4077917247961865342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5163485705629338694}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00017367413, y: 0.99399924, z: -0.000117056414, w: 0.10938697}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &1769758926878009141
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5163485705629338694}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: ba97443db79b3144e9e892fd689eeb34, type: 2}
+  m_InitialState: 0
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -8585723648186129398, guid: 5d28e478bfc7d1941b4124346705b1c1, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: 7438758689140061078, guid: e3207a18a0906b744abc156b3e32deca, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -5364420237668970986, guid: ba97443db79b3144e9e892fd689eeb34, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References:
+    - 18bc5e40a3f96b542a68ad46f21db948: {fileID: 0}
+    - 671f00453445de54b954b40bc38da497: {fileID: 0}
+    - f6278403faa36c244bb8c10092ff9b8a: {fileID: 0}
+    - 43d93a53be10d1a4eace43809e853744: {fileID: 0}
+    - a0955dd66cc910c469804da663a93e6c: {fileID: 0}
+    - 1903216f5b0daa94898b6ab0f6871d58: {fileID: 0}
+    - 14520abaf39992a4492b72f6dc858265: {fileID: 0}
+    - 9d50d7e3c29c89a44b57f7629744de87: {fileID: 0}
+    - 68a612140c7d88d4ab52e77a383703e6: {fileID: 0}
+    - fe7b16b5a6e656242a7158a194de014f: {fileID: 0}
+    - 8fdf3b0a9f664374792ab3e0e0725f6c: {fileID: 0}
+--- !u!114 &851378674170011148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5163485705629338694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ddfe67d2f8539448b7efc863ae5123, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skillId: 1010
+  skillPlayableDirector: {fileID: 1769758926878009141}
+  pooledControlPlayableAssets: []

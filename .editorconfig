@@ -1,0 +1,43 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.cs]
+# 缩进和空格
+indent_style = space
+indent_size = 4
+tab_width = 4
+
+# 换行
+end_of_line = crlf
+insert_final_newline = true
+
+# 编码
+charset = utf-8
+
+# 空格和格式
+csharp_new_line_before_open_brace = all
+csharp_new_line_before_else = true
+csharp_new_line_before_catch = true
+csharp_new_line_before_finally = true
+csharp_new_line_before_members_in_object_initializers = true
+csharp_new_line_before_members_in_anonymous_types = true
+csharp_new_line_between_query_expression_clauses = true
+
+# 排序
+dotnet_sort_system_directives_first = true
+dotnet_separate_import_directive_groups = false
+
+# 命名约定
+dotnet_naming_rule.interface_should_be_begins_with_i.severity = suggestion
+dotnet_naming_rule.interface_should_be_begins_with_i.symbols = interface
+dotnet_naming_rule.interface_should_be_begins_with_i.style = interface_style
+dotnet_naming_symbols.interface.applicable_kinds = interface
+dotnet_naming_style.interface_style.capitalization = pascal_case
+dotnet_naming_style.interface_style.required_prefix = I 

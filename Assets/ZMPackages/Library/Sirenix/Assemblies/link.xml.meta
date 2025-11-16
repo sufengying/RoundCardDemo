@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a725df3b4d1e3145a715ee4f22f82d5
+timeCreated: 1613046886
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89041
+  packageName: Odin Inspector and Serializer
+  packageVersion: 3.3.1.11
+  assetPath: Assets/ZMPackages/Library/Sirenix/Assemblies/link.xml
+  uploadId: 712389

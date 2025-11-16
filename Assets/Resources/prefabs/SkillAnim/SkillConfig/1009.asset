@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6ea2675540b9b64285f7f2b07d5b935, type: 3}
+  m_Name: 1009
+  m_EditorClassIdentifier: 
+  hideMagnificatio: 0
+  hidepersistentTime: 1
+  skillPrefab: {fileID: 1200691615047817711, guid: 2e693720c77b33149a45bff7e70e0b21, type: 3}
+  DamageNumberPrefab: {fileID: 1543204630397869584, guid: ee41d4fa0bfcee64594e7c59148bd170, type: 3}
+  skillIcon: {fileID: 0}
+  isInvoke: 0
+  skillId: 1009
+  skillName: "\u6A2A\u65A9"
+  skillDescription: "\u8DF3\u8DC3\u671D\u4E0B\u6A2A\u65A9"
+  skillType: 0
+  skillTarget: 0
+  skillDamageType: 1
+  skillCost: 0
+  magnificatio: 400
+  Magnificatio: 4
+  persistentTime: 1
+  takenTimes: 1
+  attackPreDelay: 380a0000
+  hideTargetAllEffectInfos: 1
+  effectRenderedPos: 0
+  targetAllEffectInfos: []
+  skillEffectInfos:
+  - hideEffectTransform: 0
+    Isneed: 0
+    effectParentId: 1
+    localPosition: {x: 0.02, y: 1.5, z: 0.02}
+    localRotation: {x: 9.011, y: -1.248, z: -179}
+    localScale: {x: 1, y: 1, z: 1}

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e370c074fde3c7d409bddb282a8a2f25
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89041
+  packageName: Odin Inspector and Serializer
+  packageVersion: 3.3.1.11
+  assetPath: Assets/ZMPackages/Library/Sirenix/Odin Inspector/Modules/Unity.Localization.data
+  uploadId: 712389

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7672835305613415862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 278227482449167657}
+  - component: {fileID: 7201307966390256349}
+  - component: {fileID: 1616402235257100717}
+  m_Layer: 0
+  m_Name: 1008
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &278227482449167657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7672835305613415862}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -7.1739764, y: -2.277195, z: -0.5093181}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!320 &7201307966390256349
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7672835305613415862}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: 998310f6ea6edfe4e82d87f41ddc75a3, type: 2}
+  m_InitialState: 0
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 2
+  m_InitialTime: 0
+  m_SceneBindings:
+  - key: {fileID: -8585723648186129398, guid: 5d28e478bfc7d1941b4124346705b1c1, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -3541152515820695686, guid: 998310f6ea6edfe4e82d87f41ddc75a3, type: 2}
+    value: {fileID: 0}
+  m_ExposedReferences:
+    m_References:
+    - 671f00453445de54b954b40bc38da497: {fileID: 0}
+    - 43d93a53be10d1a4eace43809e853744: {fileID: 0}
+    - c3a62818df3f2094a9b7582d3d8b7608: {fileID: 0}
+    - 9d50d7e3c29c89a44b57f7629744de87: {fileID: 0}
+    - 8ba5015755a7e7040b98c8a95a5682b6: {fileID: 0}
+--- !u!114 &1616402235257100717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7672835305613415862}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ddfe67d2f8539448b7efc863ae5123, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skillId: 1008
+  skillPlayableDirector: {fileID: 7201307966390256349}
+  pooledControlPlayableAssets: []

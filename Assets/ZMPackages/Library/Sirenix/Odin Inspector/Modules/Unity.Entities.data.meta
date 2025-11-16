@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c982316e735ed774bb24bf350522a99a
+timeCreated: 1573836981
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89041
+  packageName: Odin Inspector and Serializer
+  packageVersion: 3.3.1.11
+  assetPath: Assets/ZMPackages/Library/Sirenix/Odin Inspector/Modules/Unity.Entities.data
+  uploadId: 712389
